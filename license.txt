@@ -1,10 +1,12 @@
-ET-Chat v3.x.x ist für die Allgemeinnutzung und freien Download unter der CREATIVE COMMONS PUBLIC LICENSE 
-"Namensnennung — Nicht-kommerziell 2.0" lizenziert.
+ T-FISH-MOD-Chat basiert auf dem ET-Chat V3.0.7 Realease 3 und unterliegt daher auch der Lizenz vom ET-Chat!
+ 
+ ET-Chat v3.x.x ist fÃ¼r die Allgemeinnutzung und freien Download unter der CREATIVE COMMONS PUBLIC LICENSE 
+"Namensnennung â€” Nicht-kommerziell 2.0" lizenziert.
 
 Einzusehen in vereinfachter Form unter: http://creativecommons.org/licenses/by-nc/2.0/de/
 
-Diese Lizenz umfasst alle von <SEDesign /> erstellten Programmteile im ET-Chat v3.x.x und schließt folgende auf-
-geführte Softwareteile von Dritten aus:
+Diese Lizenz umfasst alle von <SEDesign /> erstellten Programmteile im ET-Chat v3.x.x und schlieÃŸt folgende auf-
+gefÃ¼hrte Softwareteile von Dritten aus:
 
 - script.aculo.us scriptaculous.js v1.8.0 (c) 2005-2007 Thomas Fuchs (http://script.aculo.us, http://mir.aculo.us)
 - Prototype JavaScript framework, version 1.6.0 (c) 2005-2007 Sam Stephenson (http://www.prototypejs.org/)
@@ -16,165 +18,165 @@ geführte Softwareteile von Dritten aus:
 
 Lizenzvertrag
 
-DAS URHEBERRECHTLICH GESCHÜTZTE WERK ODER DER SONSTIGE SCHUTZGEGENSTAND (WIE UNTEN BESCHRIEBEN) WIRD UNTER DEN 
-BEDINGUNGEN DIESER CREATIVE COMMONS PUBLIC LICENSE („CCPL“ ODER „LIZENZVERTRAG“) ZUR VERFÜGUNG GESTELLT. DER 
-SCHUTZGEGENSTAND IST DURCH DAS URHEBERRECHT UND/ODER EINSCHLÄGIGE GESETZE GESCHÜTZT.
+DAS URHEBERRECHTLICH GESCHÃœTZTE WERK ODER DER SONSTIGE SCHUTZGEGENSTAND (WIE UNTEN BESCHRIEBEN) WIRD UNTER DEN 
+BEDINGUNGEN DIESER CREATIVE COMMONS PUBLIC LICENSE (â€CCPLâ€œ ODER â€LIZENZVERTRAGâ€œ) ZUR VERFÃœGUNG GESTELLT. DER 
+SCHUTZGEGENSTAND IST DURCH DAS URHEBERRECHT UND/ODER EINSCHLÃ„GIGE GESETZE GESCHÃœTZT.
 
-DURCH DIE AUSÜBUNG EINES DURCH DIESEN LIZENZVERTRAG GEWÄHRTEN RECHTS AN DEM SCHUTZGEGENSTAND ERKLÄREN SIE SICH MIT 
-DEN LIZENZBEDINGUNGEN RECHTSVERBINDLICH EINVERSTANDEN. DER LIZENZGEBER RÄUMT IHNEN DIE HIER BESCHRIEBENEN RECHTE 
-UNTER DER VORAUSSETZUNGEIN, DASS SIE SICH MIT DIESEN VERTRAGSBEDINGUNGEN EINVERSTANDEN ERKLÄREN.
+DURCH DIE AUSÃœBUNG EINES DURCH DIESEN LIZENZVERTRAG GEWÃ„HRTEN RECHTS AN DEM SCHUTZGEGENSTAND ERKLÃ„REN SIE SICH MIT 
+DEN LIZENZBEDINGUNGEN RECHTSVERBINDLICH EINVERSTANDEN. DER LIZENZGEBER RÃ„UMT IHNEN DIE HIER BESCHRIEBENEN RECHTE 
+UNTER DER VORAUSSETZUNGEIN, DASS SIE SICH MIT DIESEN VERTRAGSBEDINGUNGEN EINVERSTANDEN ERKLÃ„REN.
 
 1. Definitionen
 
--Unter einer „Bearbeitung“ wird eine Übersetzung oder andere Bearbeitung des Werkes verstanden, die Ihre persönliche 
-geistige Schöpfung  ist. Eine freie Benutzung des Werkes wird nicht als Bearbeitung angesehen. 
-Unter den „Lizenzelementen“ werden die folgenden Lizenzcharakteristika verstanden, die vom Lizenzgeber ausgewählt 
-und  in der Bezeichnung  der Lizenz genannt werden: „Namensnennung“, „Nicht-kommerziell“, „Weitergabe unter gleichen 
-Bedingungen“. 
+-Unter einer â€Bearbeitungâ€œ wird eine Ãœbersetzung oder andere Bearbeitung des Werkes verstanden, die Ihre persÃ¶nliche 
+geistige SchÃ¶pfung  ist. Eine freie Benutzung des Werkes wird nicht als Bearbeitung angesehen. 
+Unter den â€Lizenzelementenâ€œ werden die folgenden Lizenzcharakteristika verstanden, die vom Lizenzgeber ausgewÃ¤hlt 
+und  in der Bezeichnung  der Lizenz genannt werden: â€Namensnennungâ€œ, â€Nicht-kommerziellâ€œ, â€Weitergabe unter gleichen 
+Bedingungenâ€œ. 
 
--Unter dem „Lizenzgeber“ wird die natürliche oder juristische Person verstanden, die den Schutzgegenstand unter den 
+-Unter dem â€Lizenzgeberâ€œ wird die natÃ¼rliche oder juristische Person verstanden, die den Schutzgegenstand unter den 
 Bedingungen dieser Lizenz anbietet. 
 
--Unter einem „Sammelwerk“ wird eine Sammlung von Werken, Daten oder anderen unabhängigen Elementen verstanden, die 
-aufgrund der Auswahl oder Anordnung der Elemente eine persönliche geistige Schöpfung ist. Darunter fallen auch 
+-Unter einem â€Sammelwerkâ€œ wird eine Sammlung von Werken, Daten oder anderen unabhÃ¤ngigen Elementen verstanden, die 
+aufgrund der Auswahl oder Anordnung der Elemente eine persÃ¶nliche geistige SchÃ¶pfung ist. Darunter fallen auch 
 solche Sammelwerke, deren Elemente systematisch oder methodisch angeordnet und einzeln mit Hilfe elektronischer 
-Mittel oder auf andere Weise zugänglich sind (Datenbankwerke). Ein Sammelwerk wird im Zusammenhang mit dieser 
+Mittel oder auf andere Weise zugÃ¤nglich sind (Datenbankwerke). Ein Sammelwerk wird im Zusammenhang mit dieser 
 Lizenz nicht als Bearbeitung (wie oben beschrieben) angesehen. 
 
--Mit „SIE“ und „Ihnen“ ist die natürliche oder juristische Person gemeint, die die durch diese Lizenz gewährten 
-Nutzungsrechte ausübt und die zuvor die Bedingungen dieser Lizenz im Hinblick auf das Werk nicht verletzt hat, 
-oder die die ausdrückliche Erlaubnis des Lizenzgebers erhalten hat, die durch diese Lizenz gewährten Nutzungsrechte 
-trotz einer vorherigen Verletzung auszuüben. 
+-Mit â€SIEâ€œ und â€Ihnenâ€œ ist die natÃ¼rliche oder juristische Person gemeint, die die durch diese Lizenz gewÃ¤hrten 
+Nutzungsrechte ausÃ¼bt und die zuvor die Bedingungen dieser Lizenz im Hinblick auf das Werk nicht verletzt hat, 
+oder die die ausdrÃ¼ckliche Erlaubnis des Lizenzgebers erhalten hat, die durch diese Lizenz gewÃ¤hrten Nutzungsrechte 
+trotz einer vorherigen Verletzung auszuÃ¼ben. 
 
--Unter dem  „Schutzgegenstand“wird  das Werk oder Sammelwerk oder das Schutzobjekt eines verwandten Schutzrechts, 
+-Unter dem  â€Schutzgegenstandâ€œwird  das Werk oder Sammelwerk oder das Schutzobjekt eines verwandten Schutzrechts, 
 das Ihnen unter den Bedingungen dieser Lizenz angeboten wird, verstanden 
 
--Unter dem „Urheber“ wird die natürliche Person verstanden, die das Werk geschaffen hat. 
+-Unter dem â€Urheberâ€œ wird die natÃ¼rliche Person verstanden, die das Werk geschaffen hat. 
 
--Unter einem „verwandten Schutzrecht“ wird das Recht an einem anderen urheberrechtlichen Schutzgegenstand als einem 
+-Unter einem â€verwandten Schutzrechtâ€œ wird das Recht an einem anderen urheberrechtlichen Schutzgegenstand als einem 
 Werk verstanden, zum Beispiel einer wissenschaftlichen Ausgabe, einem nachgelassenen Werk, einem Lichtbild, einer 
-Datenbank, einem Tonträger, einer Funksendung, einem Laufbild oder einer Darbietung eines ausübenden Künstlers. 
+Datenbank, einem TontrÃ¤ger, einer Funksendung, einem Laufbild oder einer Darbietung eines ausÃ¼benden KÃ¼nstlers. 
 
--Unter dem „Werk“ wird eine persönliche geistige Schöpfung verstanden, die Ihnen unter den Bedingungen dieser Lizenz 
+-Unter dem â€Werkâ€œ wird eine persÃ¶nliche geistige SchÃ¶pfung verstanden, die Ihnen unter den Bedingungen dieser Lizenz 
 angeboten wird.
 
-2. Schranken des Urheberrechts. Diese Lizenz lässt sämtliche Befugnisse unberührt, die sich aus den Schranken des 
-Urheberrechts,aus dem Erschöpfungsgrundsatz oder anderen Beschränkungen der Ausschließlichkeitsrechte des 
+2. Schranken des Urheberrechts. Diese Lizenz lÃ¤sst sÃ¤mtliche Befugnisse unberÃ¼hrt, die sich aus den Schranken des 
+Urheberrechts,aus dem ErschÃ¶pfungsgrundsatz oder anderen BeschrÃ¤nkungen der AusschlieÃŸlichkeitsrechte des 
 Rechtsinhabers ergeben.
 
-3. Lizenzierung. Unter den Bedingungen dieses Lizenzvertrages räumt Ihnen der Lizenzgeber ein lizenzgebührenfreies, 
-räumlich und zeitlich (für die Dauer des Urheberrechts oder verwandten Schutzrechts) unbeschränktes einfaches 
+3. Lizenzierung. Unter den Bedingungen dieses Lizenzvertrages rÃ¤umt Ihnen der Lizenzgeber ein lizenzgebÃ¼hrenfreies, 
+rÃ¤umlich und zeitlich (fÃ¼r die Dauer des Urheberrechts oder verwandten Schutzrechts) unbeschrÃ¤nktes einfaches 
 Nutzungsrecht ein, den Schutzgegenstand in der folgenden Art und Weise zu nutzen:
 
-a) den Schutzgegenstand in körperlicher Form zu verwerten, insbesondere zu vervielfältigen, zu verbreiten und 
+a) den Schutzgegenstand in kÃ¶rperlicher Form zu verwerten, insbesondere zu vervielfÃ¤ltigen, zu verbreiten und 
 auszustellen; 
 
-b) den Schutzgegenstand in unkörperlicher Form öffentlich wiederzugeben, insbesondere vorzutragen, aufzuführen 
-und vorzuführen, öffentlich zugänglich zu machen, zu senden, durch Bild- und Tonträger wiederzugeben sowie 
-Funksendungen und öffentliche Zugänglichmachungen wiederzugeben; 
+b) den Schutzgegenstand in unkÃ¶rperlicher Form Ã¶ffentlich wiederzugeben, insbesondere vorzutragen, aufzufÃ¼hren 
+und vorzufÃ¼hren, Ã¶ffentlich zugÃ¤nglich zu machen, zu senden, durch Bild- und TontrÃ¤ger wiederzugeben sowie 
+Funksendungen und Ã¶ffentliche ZugÃ¤nglichmachungen wiederzugeben; 
 
-c) den Schutzgegenstand auf Bild- oder Tonträger aufzunehmen, Lichtbilder davon herzustellen, weiterzusenden 
+c) den Schutzgegenstand auf Bild- oder TontrÃ¤ger aufzunehmen, Lichtbilder davon herzustellen, weiterzusenden 
 und in dem in a. und b. genannten Umfang zu verwerten; 
 
-d) den Schutzgegenstand zu bearbeiten oder in anderer Weise umzugestalten und die Bearbeitungen zu veröffentlichen 
+d) den Schutzgegenstand zu bearbeiten oder in anderer Weise umzugestalten und die Bearbeitungen zu verÃ¶ffentlichen 
 und in dem in a. bis c. genannten Umfang zu verwerten;
 
-Die genannten Nutzungsrechte können für alle bekannten Nutzungsarten ausgeübt werden. Die genannten Nutzungsrechte 
-beinhalten das Recht, solche Veränderungen an dem Werk vorzunehmen, die technisch erforderlich sind, um die 
-Nutzungsrechte für alle Nutzungsarten wahrzunehmen. Insbesondere sind davon die Anpassung an andere Medien und auf 
+Die genannten Nutzungsrechte kÃ¶nnen fÃ¼r alle bekannten Nutzungsarten ausgeÃ¼bt werden. Die genannten Nutzungsrechte 
+beinhalten das Recht, solche VerÃ¤nderungen an dem Werk vorzunehmen, die technisch erforderlich sind, um die 
+Nutzungsrechte fÃ¼r alle Nutzungsarten wahrzunehmen. Insbesondere sind davon die Anpassung an andere Medien und auf 
 andere Dateiformate umfasst.
 
-4. Beschränkungen. Die Einräumung der Nutzungsrechte gemäß Ziffer 3 erfolgt ausdrücklich nur unter den folgenden 
+4. BeschrÃ¤nkungen. Die EinrÃ¤umung der Nutzungsrechte gemÃ¤ÃŸ Ziffer 3 erfolgt ausdrÃ¼cklich nur unter den folgenden 
 Bedingungen:
 
-a) Sie dürfen den Schutzgegenstand ausschließlich unter den Bedingungen dieser Lizenz vervielfältigen, verbreiten 
-oder öffentlich wiedergeben, und Sie müssen stets eine Kopie oder die vollständige Internetadresse in Form des 
-Uniform-Resource-Identifier (URI) dieser Lizenz beifügen, wenn Sie den Schutzgegenstandvervielfältigen, verbreiten 
-oder öffentlich wiedergeben. Sie dürfen keine Vertragsbedingungen anbieten oder fordern, die die Bedingungen dieser 
-Lizenz oder die durch sie gewährten Rechte ändern oder beschränken. Sie dürfen den Schutzgegenstand nicht 
-unterlizenzieren. Sie müssen alle Hinweise unverändert lassen, die auf diese Lizenz und den Haftungsausschluss 
-hinweisen. Sie dürfen den Schutzgegenstand mit keinen technischen Schutzmaßnahmen versehen, die den Zugang oder den 
+a) Sie dÃ¼rfen den Schutzgegenstand ausschlieÃŸlich unter den Bedingungen dieser Lizenz vervielfÃ¤ltigen, verbreiten 
+oder Ã¶ffentlich wiedergeben, und Sie mÃ¼ssen stets eine Kopie oder die vollstÃ¤ndige Internetadresse in Form des 
+Uniform-Resource-Identifier (URI) dieser Lizenz beifÃ¼gen, wenn Sie den SchutzgegenstandvervielfÃ¤ltigen, verbreiten 
+oder Ã¶ffentlich wiedergeben. Sie dÃ¼rfen keine Vertragsbedingungen anbieten oder fordern, die die Bedingungen dieser 
+Lizenz oder die durch sie gewÃ¤hrten Rechte Ã¤ndern oder beschrÃ¤nken. Sie dÃ¼rfen den Schutzgegenstand nicht 
+unterlizenzieren. Sie mÃ¼ssen alle Hinweise unverÃ¤ndert lassen, die auf diese Lizenz und den Haftungsausschluss 
+hinweisen. Sie dÃ¼rfen den Schutzgegenstand mit keinen technischen SchutzmaÃŸnahmen versehen, die den Zugang oder den 
 Gebrauch des Schutzgegenstandes in einer Weise kontrollieren, die mit den Bedingungen dieser Lizenz im Widerspruch 
-stehen. Die genannten Beschränkungen gelten auch für den Fall, dass der Schutzgegenstand einen Bestandteil eines 
+stehen. Die genannten BeschrÃ¤nkungen gelten auch fÃ¼r den Fall, dass der Schutzgegenstand einen Bestandteil eines 
 Sammelwerkes bildet; sie verlangen aber nicht, dass das Sammelwerk insgesamt zum Gegenstand dieser Lizenz gemacht 
-wird. Wenn Sie ein Sammelwerk erstellen, müssen Sie - soweit dies praktikabel ist - auf die Mitteilung eines 
+wird. Wenn Sie ein Sammelwerk erstellen, mÃ¼ssen Sie - soweit dies praktikabel ist - auf die Mitteilung eines 
 Lizenzgebers oder Urhebers hin aus dem Sammelwerk jeglichen Hinweis auf diesen Lizenzgeber oder diesen Urheber 
-entfernen. Wenn Sie den Schutzgegenstand bearbeiten, müssen Sie - soweit dies praktikabel ist- auf die Aufforderung 
+entfernen. Wenn Sie den Schutzgegenstand bearbeiten, mÃ¼ssen Sie - soweit dies praktikabel ist- auf die Aufforderung 
 eines Rechtsinhabers hin  von der Bearbeitung jeglichen Hinweis auf diesen Rechtsinhaber entfernen. 
 
-b) Sie dürfen die in Ziffer 3 gewährten Nutzungsrechte in keiner Weise verwenden, die hauptsächlich auf einen 
-geschäftlichen Vorteil oder eine vertraglich geschuldete geldwerte Vergütung abzielt oder darauf gerichtet ist. 
-Erhalten Sie im Zusammenhang mit der Einräumung der Nutzungsrechte ebenfalls einen Schutzgegenstand, ohne dass 
-eine vertragliche Verpflichtung hierzu besteht, so wird dies nicht als geschäftlicher Vorteil oder vertraglich 
-geschuldete geldwerte Vergütung angesehen, wenn keine Zahlung oder geldwerte Vergütung in Verbindung mit dem Austausch 
-der Schutzgegenstände geleistet wird (z.B. File-Sharing). 
+b) Sie dÃ¼rfen die in Ziffer 3 gewÃ¤hrten Nutzungsrechte in keiner Weise verwenden, die hauptsÃ¤chlich auf einen 
+geschÃ¤ftlichen Vorteil oder eine vertraglich geschuldete geldwerte VergÃ¼tung abzielt oder darauf gerichtet ist. 
+Erhalten Sie im Zusammenhang mit der EinrÃ¤umung der Nutzungsrechte ebenfalls einen Schutzgegenstand, ohne dass 
+eine vertragliche Verpflichtung hierzu besteht, so wird dies nicht als geschÃ¤ftlicher Vorteil oder vertraglich 
+geschuldete geldwerte VergÃ¼tung angesehen, wenn keine Zahlung oder geldwerte VergÃ¼tung in Verbindung mit dem Austausch 
+der SchutzgegenstÃ¤nde geleistet wird (z.B. File-Sharing). 
 
-c) Wenn Sie den Schutzgegenstand oder eine Bearbeitung oder ein Sammelwerk vervielfältigen, verbreiten oder öffentlich 
-wiedergeben, müssen Sie alle Urhebervermerke für den Schutzgegenstand unverändert lassen und die Urheberschaft oder 
+c) Wenn Sie den Schutzgegenstand oder eine Bearbeitung oder ein Sammelwerk vervielfÃ¤ltigen, verbreiten oder Ã¶ffentlich 
+wiedergeben, mÃ¼ssen Sie alle Urhebervermerke fÃ¼r den Schutzgegenstand unverÃ¤ndert lassen und die Urheberschaft oder 
 Rechtsinhaberschaft in einer der von Ihnen vorgenommenen Nutzung angemessenen Form anerkennen, indem Sie den Namen 
 (oder das Pseudonym, falls ein solches verwendet wird) des Urhebers oder Rechteinhabers nennen, wenn dieser angegeben 
-ist. Dies gilt auch für den Titel des Schutzgegenstandes, wenn dieser angeben ist, sowie - in einem vernünftigerweise 
-durchführbaren Umfang - für die mit dem Schutzgegenstand zu verbindende Internetadresse in Form des 
+ist. Dies gilt auch fÃ¼r den Titel des Schutzgegenstandes, wenn dieser angeben ist, sowie - in einem vernÃ¼nftigerweise 
+durchfÃ¼hrbaren Umfang - fÃ¼r die mit dem Schutzgegenstand zu verbindende Internetadresse in Form des 
 Uniform-Resource-Identifier (URI), wie sie der Lizenzgeber angegeben hat, sofern dies geschehen ist, es sei denn, diese 
 Internetadresse verweist nicht auf den Urhebervermerk oder die Lizenzinformationen zu dem  Schutzgegenstand. Bei einer 
-Bearbeitung ist ein Hinweis darauf aufzuführen, in welcher Form der Schutzgegenstand in die Bearbeitung eingegangen ist 
-(z.B. „Französische Übersetzung des ... (Werk) durch ... (Urheber)“ oder „Das Drehbuch beruht auf dem Werk 
-des ... (Urheber)“). Ein solcher Hinweis kann in jeder angemessenen Weise erfolgen, wobei jedoch bei einer Bearbeitung, 
-einer Datenbank oder einem Sammelwerk der Hinweis zumindest an gleicher Stelle und in ebenso auffälliger Weise zu 
+Bearbeitung ist ein Hinweis darauf aufzufÃ¼hren, in welcher Form der Schutzgegenstand in die Bearbeitung eingegangen ist 
+(z.B. â€FranzÃ¶sische Ãœbersetzung des ... (Werk) durch ... (Urheber)â€œ oder â€Das Drehbuch beruht auf dem Werk 
+des ... (Urheber)â€œ). Ein solcher Hinweis kann in jeder angemessenen Weise erfolgen, wobei jedoch bei einer Bearbeitung, 
+einer Datenbank oder einem Sammelwerk der Hinweis zumindest an gleicher Stelle und in ebenso auffÃ¤lliger Weise zu 
 erfolgen hat wie vergleichbare Hinweise auf andere Rechtsinhaber. 
 
-d) Obwohl die gemäss Ziffer 3 gewährten Nutzungsrechte in umfassender Weise ausgeübt werden dürfen, findet diese Erlaubnis 
-ihre gesetzliche Grenze in den Persönlichkeitsrechten der Urheber und ausübenden Künstler, deren berechtigte geistige 
-und persönliche Interessen bzw. deren Ansehen oder Ruf nicht dadurch gefährdet werden dürfen, dass ein Schutzgegenstand 
-über das gesetzlich zulässige Maß hinaus beeinträchtigt wird. 
+d) Obwohl die gemÃ¤ss Ziffer 3 gewÃ¤hrten Nutzungsrechte in umfassender Weise ausgeÃ¼bt werden dÃ¼rfen, findet diese Erlaubnis 
+ihre gesetzliche Grenze in den PersÃ¶nlichkeitsrechten der Urheber und ausÃ¼benden KÃ¼nstler, deren berechtigte geistige 
+und persÃ¶nliche Interessen bzw. deren Ansehen oder Ruf nicht dadurch gefÃ¤hrdet werden dÃ¼rfen, dass ein Schutzgegenstand 
+Ã¼ber das gesetzlich zulÃ¤ssige MaÃŸ hinaus beeintrÃ¤chtigt wird. 
 
-5. Gewährleistung. Sofern dies von den Vertragsparteien nicht anderweitig schriftlich vereinbart,, bietet der Lizenzgeber 
-keine Gewährleistung für die erteilten Rechte, außer für den Fall, dass Mängel arglistig verschwiegen wurden. Für Mängel 
-anderer Art, insbesondere bei der mangelhaften Lieferung von Verkörperungen des Schutzgegenstandes, richtet sich die 
-Gewährleistung nach der Regelung, die die Person, die Ihnen den Schutzgegenstand zur Verfügung stellt, mit Ihnen 
-außerhalb dieser Lizenz vereinbart, oder - wenn eine solche Regelung nicht getroffen wurde - nach den gesetzlichen 
+5. GewÃ¤hrleistung. Sofern dies von den Vertragsparteien nicht anderweitig schriftlich vereinbart,, bietet der Lizenzgeber 
+keine GewÃ¤hrleistung fÃ¼r die erteilten Rechte, auÃŸer fÃ¼r den Fall, dass MÃ¤ngel arglistig verschwiegen wurden. FÃ¼r MÃ¤ngel 
+anderer Art, insbesondere bei der mangelhaften Lieferung von VerkÃ¶rperungen des Schutzgegenstandes, richtet sich die 
+GewÃ¤hrleistung nach der Regelung, die die Person, die Ihnen den Schutzgegenstand zur VerfÃ¼gung stellt, mit Ihnen 
+auÃŸerhalb dieser Lizenz vereinbart, oder - wenn eine solche Regelung nicht getroffen wurde - nach den gesetzlichen 
 Vorschriften.
 
-6. Haftung. Über die in Ziffer 5 genannte Gewährleistung hinaus haftet Ihnen der Lizenzgeber nur für Vorsatz und grobe 
-Fahrlässigkeit.
+6. Haftung. Ãœber die in Ziffer 5 genannte GewÃ¤hrleistung hinaus haftet Ihnen der Lizenzgeber nur fÃ¼r Vorsatz und grobe 
+FahrlÃ¤ssigkeit.
 
 
 7. Vertragsende
 
-a. Dieser Lizenzvertrag und die durch ihn eingeräumten Nutzungsrechte enden automatisch bei jeder Verletzung der 
-Vertragsbedingungen durch Sie. Für natürliche und juristische Personen, die von Ihnen eine Bearbeitung, eine Datenbank 
+a. Dieser Lizenzvertrag und die durch ihn eingerÃ¤umten Nutzungsrechte enden automatisch bei jeder Verletzung der 
+Vertragsbedingungen durch Sie. FÃ¼r natÃ¼rliche und juristische Personen, die von Ihnen eine Bearbeitung, eine Datenbank 
 oder ein Sammelwerk unter diesen Lizenzbedingungen erhalten haben, gilt die Lizenz jedoch weiter, vorausgesetzt, diese 
-natürlichen oder juristischen Personen erfüllen sämtliche Vertragsbedingungen. Die Ziffern 1, 2, 5, 6, 7 und 8 gelten 
+natÃ¼rlichen oder juristischen Personen erfÃ¼llen sÃ¤mtliche Vertragsbedingungen. Die Ziffern 1, 2, 5, 6, 7 und 8 gelten 
 bei einer Vertragsbeendigung fort.
  
-b. Unter den oben genannten Bedingungen  erfolgt die Lizenz auf unbegrenzte Zeit (für die Dauer des Schutzrechts). 
-Dennoch behält sich der Lizenzgeber das Recht vor, den Schutzgegenstand unter anderen Lizenzbedingungen zu nutzen oder 
+b. Unter den oben genannten Bedingungen  erfolgt die Lizenz auf unbegrenzte Zeit (fÃ¼r die Dauer des Schutzrechts). 
+Dennoch behÃ¤lt sich der Lizenzgeber das Recht vor, den Schutzgegenstand unter anderen Lizenzbedingungen zu nutzen oder 
 die eigene Weitergabe des Schutzgegenstandes jederzeit zu beenden, vorausgesetzt, dass solche Handlungen nicht dem 
 Widerruf dieser Lizenz dienen (oder jeder anderen Lizenzierung, die auf Grundlage dieser Lizenz erfolgt ist oder 
 erfolgen muss) und diese Lizenz wirksam bleibt, bis Sie unter den oben genannten Voraussetzungen endet.
 
 8. Schlussbestimmungen
 
-a. Jedes Mal, wenn Sie den Schutzgegenstand vervielfältigen, verbreiten oder öffentlich wiedergeben, bietet der 
-Lizenzgeber dem Erwerber eine Lizenz für den Schutzgegenstand unter denselben Vertragsbedingungen an, unter denen er 
-Ihnen die Lizenz eingeräumt hat. 
+a. Jedes Mal, wenn Sie den Schutzgegenstand vervielfÃ¤ltigen, verbreiten oder Ã¶ffentlich wiedergeben, bietet der 
+Lizenzgeber dem Erwerber eine Lizenz fÃ¼r den Schutzgegenstand unter denselben Vertragsbedingungen an, unter denen er 
+Ihnen die Lizenz eingerÃ¤umt hat. 
 
-b. Jedes Mal, wenn Sie eine Bearbeitung vervielfältigen, verbreiten oder öffentlich wiedergeben, bietet der Lizenzgeber 
-dem Erwerber eine Lizenz für den ursprünglichen Schutzgegenstand unter denselben Vertragsbedingungen an, unter denen er 
-Ihnen die Lizenz eingeräumt hat. 
+b. Jedes Mal, wenn Sie eine Bearbeitung vervielfÃ¤ltigen, verbreiten oder Ã¶ffentlich wiedergeben, bietet der Lizenzgeber 
+dem Erwerber eine Lizenz fÃ¼r den ursprÃ¼nglichen Schutzgegenstand unter denselben Vertragsbedingungen an, unter denen er 
+Ihnen die Lizenz eingerÃ¤umt hat. 
 
-c. Sollte eine Bestimmung dieses Lizenzvertrages unwirksam sein, so wird die Wirksamkeit der übrigen Lizenzbestimmungen 
-dadurch nicht berührt, und an die Stelle der unwirksamen Bestimmung tritt eine Ersatzregelung, die dem mit der unwirksamen 
-Bestimmung angestrebten Zweck am nächsten kommt. 
+c. Sollte eine Bestimmung dieses Lizenzvertrages unwirksam sein, so wird die Wirksamkeit der Ã¼brigen Lizenzbestimmungen 
+dadurch nicht berÃ¼hrt, und an die Stelle der unwirksamen Bestimmung tritt eine Ersatzregelung, die dem mit der unwirksamen 
+Bestimmung angestrebten Zweck am nÃ¤chsten kommt. 
 
 d. Nichts soll dahingehend ausgelegt werden, dass auf eine Bestimmung dieses Lizenzvertrages verzichtet oder einer 
 Vertragsverletzung zugestimmt wird, so lange ein solcher Verzicht oder eine solche Zustimmung nicht schriftlich vorliegen 
 und von der verzichtenden oder zustimmenden Vertragspartei unterschrieben sind 
 
-e. Dieser Lizenzvertrag stellt die vollständige Vereinbarung zwischen den Vertragsparteien hinsichtlich des 
-Schutzgegenstandes dar. Es gibt keine weiteren ergänzenden Vereinbarungen oder mündlichen Abreden im Hinblick auf den 
-Schutzgegenstand. Der Lizenzgeber ist an keine zusätzlichen Abreden gebunden, die aus irgendeiner Absprache mit Ihnen 
-entstehen könnten. Der Lizenzvertrag kann nicht ohne eine übereinstimmende schriftliche Vereinbarung zwischen dem 
-Lizenzgeber und Ihnen abgeändert werden. 
+e. Dieser Lizenzvertrag stellt die vollstÃ¤ndige Vereinbarung zwischen den Vertragsparteien hinsichtlich des 
+Schutzgegenstandes dar. Es gibt keine weiteren ergÃ¤nzenden Vereinbarungen oder mÃ¼ndlichen Abreden im Hinblick auf den 
+Schutzgegenstand. Der Lizenzgeber ist an keine zusÃ¤tzlichen Abreden gebunden, die aus irgendeiner Absprache mit Ihnen 
+entstehen kÃ¶nnten. Der Lizenzvertrag kann nicht ohne eine Ã¼bereinstimmende schriftliche Vereinbarung zwischen dem 
+Lizenzgeber und Ihnen abgeÃ¤ndert werden. 
 
 f. Auf diesen Lizenzvertrag findet das Recht der Bundesrepublik Deutschland Anwendung.
