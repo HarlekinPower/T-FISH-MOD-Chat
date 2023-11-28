@@ -1,0 +1,45 @@
+Installationsanweisung für T-FISH-MOD-Chat
+------------------------------------------
+
+Technische Voraussetzungen
+
+Server:
+- Apache, IIS
+- PHP >= 8.0
+	+ PDO or MySQLi Extension
+
+- MySQL >= 4.1 oder PostgreSQL >= 8
+ 
+
+Browser:
+- IE >= 6
+- Firefox >= 1.5
+- Safari
+- Opera >= 9
+
+
+Installation
+-------------
+
+* Entpacke das T-FISH-MOD-Chat-main.zip Archiv auf deinem PC
+
+* öffne mit einem Editor (Notepad, Wordpad, etc.) die Datei config.php im Chatverzeichnis
+
+* Gib die Parameter deiner Datenbankverbindung in die Variablen ein und wähle die Datenbank
+  (Die Parameter deiner Datenbankverbindung erfährst du oft bei deinem Webspaceprovider)
+
+* Speicher die config.php mit deinen gemachten Angaben
+
+* Lade den gesamten Inhalt vom Verzeichnis \T-FISH-MOD-Chat-main\ auf deinenn Webserver 
+  (am besten in das Stammverzeichnis, sog. /root/)
+
+* [OPTIONAL] - Gib dem Verzeichnis /smilies/ alle Rechte (CHMOD 777) und achte darauf dass PHP auf Ihrem Webserver 
+  mit safe_mode=off läuft. Dies wird für die Smilies-Verwaltung benötigt und ist daher optional. 
+
+* Gib imm Browser nun folgende URI ein: https://www.ihr_server.de/T-FISH-MOD-Chat-main/install/
+
+* Folge dort den Anweisungen
+
+* Deine Datenbank sollte nun angelegt sein und der Standardbenutzer: Admin mit Passwort: admin ist eingerichtet
+
+* WICHTIG!: Nach der erfolgreichen Installation lösche das Verzeichnis /install/ vom Webserver!
