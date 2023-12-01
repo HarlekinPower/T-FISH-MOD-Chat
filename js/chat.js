@@ -1,10 +1,32 @@
 /* ##########################################################################
+# T-FISH-MOD-Chat basiert auf dem ET-Chat V3.0.7 Realease 3 und unterliegt daher auch der Lizenz vom ET-Chat!
 # ET-Chat v3.x.x
 # Lizenz: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
 # Autor: Evgeni Tcherkasski <SEDesign />
 # E-mail: info@s-e-d.de
 # WWW: http://www.sedesign.de
+#
+# Datei modifiziert von T-FISH
+# WWW: https://et-chat.de
 ############################################################################*/
+
+function setCookie(key, value, sameSite) {
+  var expires = new Date();
+  expires.setTime(expires.getTime() + 31536000000); // 1 Jahr
+  var cookieString = key + '=' + value + ';expires=' + expires.toUTCString();
+  if (sameSite) {
+    cookieString += ';SameSite=' + sameSite;
+  }
+  document.cookie = cookieString;
+}
+
+function getCookie(key) {
+var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+return keyValue ? keyValue[2] : null;}
+
+function deleteCookie(key) {
+  document.cookie = key + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+}
 
 function ET_Chat(){
 
@@ -359,6 +381,21 @@ this.start = function(){
 	new Ajax.Request("./?Colorizer",{onSuccess:function(result){self.win_color_content=result.responseText;}});
 
 	$('message').style.color = "#"+self.textcolor;
+	
+	if (getCookie('saved_color_'+self.username)) {
+		self.textcolor=getCookie('saved_color_'+self.username);
+		$('message').style.color="#"+getCookie('saved_color_'+self.username);
+		$('message').style.Backgroundcolor="#"+getCookie('saved_color_'+self.username);
+		$('color').value="#"+getCookie('saved_color_'+self.username);
+	}
+	if (getCookie('saved_bold_'+self.username)) {
+		$('bold').value=getCookie('saved_bold_'+self.username);
+		$('message').style.fontWeight=getCookie('saved_bold_'+self.username);
+	}
+	if (getCookie('saved_italic_'+self.username)) {
+		$('italic').value=getCookie('saved_italic_'+self.username);
+		$('message').style.fontStyle=getCookie('saved_italic_'+self.username);
+	}
 
 	//Click auf Color-Icon
 	$("link_color").onclick = function(){
@@ -370,19 +407,16 @@ this.start = function(){
 
 			//(Start) Font Art auswaehlen und in hidden-Inputs eintragen --------------------
 			$("kursiv").onclick = function(){
+				$("italic").value = ($("kursiv").checked) ? setCookie('saved_italic_'+self.username,'italic','lax') : deleteCookie('saved_italic_'+self.username) ;
 				$("italic").value = ($("kursiv").checked) ? "italic" : "normal";
 				$('message').style.fontStyle = ($("kursiv").checked) ? "italic" : "normal";
 				}
 			$("fett").onclick = function(){
+				$("bold").value = ($("fett").checked) ? setCookie('saved_bold_'+self.username,'bold','lax') : deleteCookie('saved_bold_'+self.username);
 				$("bold").value = ($("fett").checked) ? "bold" : "normal";
 				$('message').style.fontWeight = ($("fett").checked) ? "bold" : "normal";
 				}
 			//(Stop) Font Art auswaehlen und in hidden-Inputs eintragen ---------------------
-
-			// Startfarbe des Textes
-			var r = self.textcolor.slice(0,2);
-			var g = self.textcolor.slice(2,4);
-			var b = self.textcolor.slice(4,6);
 
 			//(Start) Init Slider zum RGB-Mischen ------------------------------
 			var slider_red = new Control.Slider('handle_red', 'track_red', {
@@ -390,6 +424,7 @@ this.start = function(){
 				onChange: function(v){
 					r = dec2hex(v*255);
 					$('message').style.color=$('color').value=$('farbenvorschau').style.backgroundColor="#"+r+g+b;
+					setCookie('saved_color_'+self.username,r+g+b,'lax');
 					}
 			});
 			var slider_green = new Control.Slider('handle_green', 'track_green', {
@@ -397,6 +432,7 @@ this.start = function(){
 				onChange: function(v){
 					g = dec2hex(v*255);
 					$('message').style.color=$('color').value=$('farbenvorschau').style.backgroundColor="#"+r+g+b;
+					setCookie('saved_color_'+self.username,r+g+b,'lax');
 					}
 			});
 			var slider_blue = new Control.Slider('handle_blue', 'track_blue', {
@@ -404,6 +440,7 @@ this.start = function(){
 				onChange: function(v){
 					b = dec2hex(v*255);
 					$('message').style.color=$('color').value=$('farbenvorschau').style.backgroundColor="#"+r+g+b;
+					setCookie('saved_color_'+self.username,r+g+b,'lax');
 				}
 			});
            	//(Stop) Init Slider zum RGB-Mischen -------------------------------
