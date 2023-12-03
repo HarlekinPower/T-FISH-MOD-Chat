@@ -22,6 +22,8 @@
  * @copyright Copyright (c) 2005-2007, Adam A. Flynn
  *
  * @version 1.3.0
+ * modified by T-FISH
+ * WWW: https://et-chat.de
  */
 class AAFParser 
 {

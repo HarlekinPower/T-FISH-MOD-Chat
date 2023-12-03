@@ -1,10 +1,15 @@
-/* ##########################################################################
+/* #######################################################################################################################
+# T-FISH-MOD-Chat is based on the ET-Chat V3.0.7 Realease 3 and is therefore also subject to the license from the ET-Chat!
 # ET-Chat v3.x.x
-# Lizenz: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
+# License: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
 # Autor: Evgeni Tcherkasski <SEDesign />
 # E-mail: info@s-e-d.de
 # WWW: http://www.sedesign.de
-############################################################################*/
+#
+# File: login.js modified by T-FISH
+# WWW: https://et-chat.de
+#########################################################################################################################*/
+
 
 window.onload = function() {
 

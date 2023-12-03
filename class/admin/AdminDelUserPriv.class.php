@@ -1,15 +1,17 @@
 <?php
-/**
- * Class AdminDelUserPriv - Admin area
- *
- * LICENSE: CREATIVE COMMONS PUBLIC LICENSE  "Namensnennung — Nicht-kommerziell 2.0"
- *
- * @copyright  2009 <SEDesign />
- * @license    http://creativecommons.org/licenses/by-nc/2.0/de/
- * @version    $3.0.7$
- * @link       http://www.sedesign.de/de_produkte_chat-v3.html
- * @since      File available since Alpha 1.0
- */
+/* #######################################################################################################################
+# T-FISH-MOD-Chat is based on the ET-Chat V3.0.7 Realease 3 and is therefore also subject to the license from the ET-Chat!
+# ET-Chat v3.x.x
+# License: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
+# Autor: Evgeni Tcherkasski <SEDesign />
+# E-mail: info@s-e-d.de
+# WWW: http://www.sedesign.de
+#
+# File: AdminDelUserPriv.class.php modified by T-FISH
+# WWW: https://et-chat.de
+#
+# Class AdminDelUserPriv - Admin area
+########################################################################################################################*/
 
 class AdminDelUserPriv extends DbConectionMaker
 {

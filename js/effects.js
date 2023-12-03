@@ -695,7 +695,7 @@ Effect.SlideDown = function(element) {
       if (window.opera) effect.element.setStyle({top: ''});
       effect.element.makeClipping().setStyle({height: '0px'}).show();
     },
-    afterUpdateInternal: function(effect) {
+    afterUpFilenternal: function(effect) {
       effect.element.down().setStyle({bottom:
         (effect.dims[0] - effect.element.clientHeight) + 'px' });
     },
@@ -723,7 +723,7 @@ Effect.SlideUp = function(element) {
       if (window.opera) effect.element.setStyle({top: ''});
       effect.element.makeClipping().show();
     },
-    afterUpdateInternal: function(effect) {
+    afterUpFilenternal: function(effect) {
       effect.element.down().setStyle({bottom:
         (effect.dims[0] - effect.element.clientHeight) + 'px' });
     },

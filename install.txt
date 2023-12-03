@@ -23,7 +23,7 @@ Installation
 
 * Entpacke das T-FISH-MOD-Chat-main.zip Archiv auf deinem PC
 
-* öffne mit einem Editor (Notepad, Wordpad, etc.) die Datei config.php im Chatverzeichnis
+* öffne mit einem Editor (Notepad, Wordpad, etc.) die File config.php im Chatverzeichnis
 
 * Gib die Parameter deiner Datenbankverbindung in die Variablen ein und wähle die Datenbank
   (Die Parameter deiner Datenbankverbindung erfährst du oft bei deinem Webspaceprovider)

@@ -1,14 +1,14 @@
-/* ##########################################################################
-# T-FISH-MOD-Chat basiert auf dem ET-Chat V3.0.7 Realease 3 und unterliegt daher auch der Lizenz vom ET-Chat!
+/* #######################################################################################################################
+# T-FISH-MOD-Chat is based on the ET-Chat V3.0.7 Realease 3 and is therefore also subject to the license from the ET-Chat!
 # ET-Chat v3.x.x
-# Lizenz: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
+# License: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
 # Autor: Evgeni Tcherkasski <SEDesign />
 # E-mail: info@s-e-d.de
 # WWW: http://www.sedesign.de
 #
-# Datei modifiziert von T-FISH
+# File: chat.js modified by T-FISH
 # WWW: https://et-chat.de
-############################################################################*/
+#########################################################################################################################*/
 
 function setCookie(key, value, sameSite) {
   var expires = new Date();

@@ -1,10 +1,21 @@
 <?php
+/* #######################################################################################################################
+# T-FISH-MOD-Chat is based on the ET-Chat V3.0.7 Realease 3 and is therefore also subject to the license from the ET-Chat!
+# ET-Chat v3.x.x
+# License: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
+# Autor: Evgeni Tcherkasski <SEDesign />
+# E-mail: info@s-e-d.de
+# WWW: http://www.sedesign.de
+#
+# File: Zusatztool_Anbindung_an_Fremduserverwaltung.php modified by T-FISH
+# WWW: https://et-chat.de
+########################################################################################################################*/
 session_start();
 //*****************************************************************************
 // Für die Realisierung der Anbindung des Chats an Ihr Userverwaltungssystem aus einem
 // Forum, CMS, usw. müssen Sie lediglich die unten stehenden Sessionvariablen
 // in Ihrem System mit dem Usernamen belegen und den User mit einem
-// Link auf diese Datei führen. Beachten Sie dass dabei der Username ohne Passwort übertragen wird. 
+// Link auf diese File führen. Beachten Sie dass dabei der Username ohne Passwort übertragen wird. 
 // Sie dürfen also in Chat keine Passwörter für Admins und Mods anlegen. Für einen  Chatbenutzer ist die
 // Übergabe des Usernamen über die Sessionvar. $_SESSION['etchat_username'] aus Ihrem
 // System ausreichend.

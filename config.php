@@ -1,21 +1,22 @@
 <?php
-/**
- * Config DB and Chat parameters
- *
- * LICENSE: CREATIVE COMMONS PUBLIC LICENSE  "Namensnennung — Nicht-kommerziell 2.0"
- *
- * @copyright  2017 <SEDesign />
- * @license    http://creativecommons.org/licenses/by-nc/2.0/de/
- * @version    $3.0.7$
- * @link       http://www.sedesign.de/de_produkte_chat-v3.html
- * @since      File available since Beta 1.0
- */
-  
+/* #######################################################################################################################
+# T-FISH-MOD-Chat is based on the ET-Chat V3.0.7 Realease 3 and is therefore also subject to the license from the ET-Chat!
+# ET-Chat v3.x.x
+# License: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
+# Autor: Evgeni Tcherkasski <SEDesign />
+# E-mail: info@s-e-d.de
+# WWW: http://www.sedesign.de
+#
+# File: config.php modified by T-FISH
+# WWW: https://et-chat.de
+#
+# Config DB and Chat parameters
+########################################################################################################################*/
   
 $database = "etchat";		//Datenbankname
-$sqlhost = "localhost";    	//Datenbank Hostname
-$sqluser = "root";         	//Datenbank Username
-$sqlpass = "";    			//Datenbank Passwort
+$sqlhost = "localhost";    //Datenbank Hostname
+$sqluser = "root";         //Datenbank Username
+$sqlpass = "";    		//Datenbank Passwort
 	
 $prefix = "db1_";			//Prefix bei den Tabellennamen und allen Sessionvariablen
 	

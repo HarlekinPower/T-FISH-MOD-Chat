@@ -10,6 +10,19 @@
  * @link       http://www.sedesign.de/de_produkte_chat-v3.html
  * @since      File available since Alpha 1.0
  */
+/* #######################################################################################################################
+# T-FISH-MOD-Chat is based on the ET-Chat V3.0.7 Realease 3 and is therefore also subject to the license from the ET-Chat!
+# ET-Chat v3.x.x
+# License: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
+# Autor: Evgeni Tcherkasski <SEDesign />
+# E-mail: info@s-e-d.de
+# WWW: http://www.sedesign.de
+#
+# File: AdminInsertSmilies.class.php modified by T-FISH
+# WWW: https://et-chat.de
+#
+# Class AdminInsertSmilies - Admin area
+########################################################################################################################*/
 
 class AdminInsertSmilies extends DbConectionMaker
 {

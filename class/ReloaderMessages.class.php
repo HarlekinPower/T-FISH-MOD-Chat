@@ -1,16 +1,18 @@
 <?php
-/**
- * Class ReloaderMessages, the AJAX Request for getting and setting new messges,  pull session and more,
- *
- * LICENSE: CREATIVE COMMONS PUBLIC LICENSE  "Namensnennung — Nicht-kommerziell 2.0"
- *
- * @copyright  2010 <SEDesign />
- * @license    http://creativecommons.org/licenses/by-nc/2.0/de/
- * @version    $3.0.7$
- * @link       http://www.sedesign.de/de_produkte_chat-v3.html
- * @since      File available since Alpha 2.0
- */
- 
+/* #######################################################################################################################
+# T-FISH-MOD-Chat is based on the ET-Chat V3.0.7 Realease 3 and is therefore also subject to the license from the ET-Chat!
+# ET-Chat v3.x.x
+# License: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
+# Autor: Evgeni Tcherkasski <SEDesign />
+# E-mail: info@s-e-d.de
+# WWW: http://www.sedesign.de
+#
+# File: ReloaderMessages.class.php modified by T-FISH
+# WWW: https://et-chat.de
+#
+# Class ReloaderMessages, the AJAX Request for getting and setting new messges,  pull session and more
+########################################################################################################################*/
+
 class ReloaderMessages extends DbConectionMaker
 {
 

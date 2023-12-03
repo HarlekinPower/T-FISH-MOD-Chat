@@ -218,8 +218,8 @@ Die Loginprozedur wurde von Ihnen zu oft durchgeführt.</many_logins>
 			<delete>löschen</delete>
 			<sign>Kürzel</sign>
 			<sign_exists>Kürzel vorhanden!</sign_exists>
-			<isupload>Die Datei wurde geprüft und erfolgreich hochgeladen.</isupload>
-			<noupload>Datei-Upload fehlgeschlagen!</noupload>
+			<isupload>Die File wurde geprüft und erfolgreich hochgeladen.</isupload>
+			<noupload>File-Upload fehlgeschlagen!</noupload>
 			<title>Smilie-Verwaltung</title>
 			<back>Zurück</back>
 			<note>Beachte, dass administratorische Änderungen bei den Smilies erst nach einem erneuten Login sichtbar werden.</note>
