@@ -4,7 +4,7 @@
 # ET-Chat v3.x.x
 # License: CCPL - http://creativecommons.org/licenses/by-nc/2.0/de/
 # Autor: Evgeni Tcherkasski <SEDesign />
-# E-mail: info@s-e-d.de
+# E-mail: info@sedesign.de
 # WWW: http://www.sedesign.de
 #
 # File: RoomAllowed.class.php modified by T-FISH
