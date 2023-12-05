@@ -10,7 +10,7 @@ CREATE TABLE  ###prefix###etchat_blacklist (
   etchat_blacklist_userid int(8) NOT NULL,
   etchat_blacklist_time int(30) NOT NULL,
   PRIMARY KEY  (etchat_blacklist_id)
-);
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 -- limit --
 
 --
@@ -36,7 +36,7 @@ CREATE TABLE  ###prefix###etchat_messages (
   etchat_privat int(8) default '0',
   etchat_user_ip varchar(100) DEFAULT NULL,
   PRIMARY KEY  (etchat_id)
-);
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 -- limit --
 --
 -- Daten für Tabelle 'etchat_messages'
@@ -58,7 +58,7 @@ CREATE TABLE  ###prefix###etchat_rooms (
   etchat_room_pw varchar(50) default NULL,
   etchat_room_message text,
   PRIMARY KEY  (etchat_id_room)
-);
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 -- limit --
 --
 -- Daten für Tabelle 'etchat_rooms'
@@ -83,7 +83,7 @@ CREATE TABLE  ###prefix###etchat_smileys (
   etchat_smileys_sign varchar(20) NOT NULL,
   etchat_smileys_img varchar(100) NOT NULL,
   PRIMARY KEY  (etchat_smileys_id)
-);
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 -- limit --
 --
 -- Daten für Tabelle 'etchat_smileys'
@@ -171,7 +171,7 @@ CREATE TABLE  ###prefix###etchat_user (
   etchat_reg_timestamp timestamp NOT NULL DEFAULT '1980-01-01 00:00:00',
   etchat_reg_ip varchar(100) DEFAULT NULL,
   PRIMARY KEY  (etchat_user_id)
-);
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 -- limit --
 --
 -- Daten für Tabelle 'etchat_user'
@@ -203,7 +203,7 @@ CREATE TABLE  ###prefix###etchat_useronline (
   etchat_user_online_user_status_img varchar(200) default NULL,
   etchat_user_online_user_status_text varchar(200) default NULL,
   PRIMARY KEY  (etchat_onlineid)
-);
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 -- limit --
 
 --
@@ -225,7 +225,7 @@ CREATE TABLE  ###prefix###etchat_config (
   etchat_config_loeschen_nach int(11) NOT NULL,
   etchat_config_lang varchar(30) NOT NULL,
   PRIMARY KEY  (etchat_config_id)
-);
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 -- limit --
 --
 -- Daten für Tabelle 'etchat_config'
@@ -242,4 +242,4 @@ CREATE TABLE ###prefix###etchat_kick_user (
   etchat_kicked_user_id int(11) NOT NULL,
   etchat_kicked_user_time int(11) NOT NULL,
   PRIMARY KEY  (id)
-)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
