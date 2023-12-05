@@ -8,7 +8,7 @@ Server:
 - PHP >= 8.0
 	+ PDO or MySQLi Extension
 
-- MySQL >= 4.1 oder PostgreSQL >= 8
+- MySQL >= 4.1
  
 
 Browser:
