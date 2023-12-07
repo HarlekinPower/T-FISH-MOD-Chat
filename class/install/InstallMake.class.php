@@ -31,7 +31,7 @@ class InstallMake extends DbConectionMaker
 
 		header('Cache-Control: no-store, no-cache, must-revalidate, pre-check=0, post-check=0, max-age=0');
 		
-		if ($this->_usedDatabase == "mysql") $sql_dump="install/mysql_db.sql";
+		$sql_dump="install/mysql_db.sql";
 
 		if (file_exists($sql_dump)){
 			$sql=explode("-- limit --", file_get_contents($sql_dump));
