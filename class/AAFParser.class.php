@@ -208,7 +208,7 @@ class AAFParser
 
 
 /**
- * XML Tag Object (php5)
+ * XML Tag Object (php8)
  * 
  * This object stores all of the direct children of itself in the $children array. They are also stored by
  * type as arrays. So, if, for example, this tag had 2 <font> tags as children, there would be a class member
