@@ -71,11 +71,8 @@ class History extends DbConectionMaker
 		$site=$_POST['site']-1;
 		$von = $site*$pro_seite;
 		
-		if ($this->_usedDatabase == "mysql") $limit = "LIMIT $von, $pro_seite";
-		if ($this->_usedDatabase == "pgsql") $limit = "LIMIT $pro_seite OFFSET $von";
+		$limit = "LIMIT $von, $pro_seite";
 
-
-		
 		if($privates)
 			$feld=$this->dbObj->sqlGet("
 			SELECT {$this->_prefix}etchat_messages.etchat_id, {$this->_prefix}etchat_user.etchat_username, {$this->_prefix}etchat_messages.etchat_text, {$this->_prefix}etchat_messages.etchat_timestamp, {$this->_prefix}etchat_rooms.etchat_roomname, {$this->_prefix}etchat_messages.etchat_privat, {$this->_prefix}etchat_messages.etchat_user_fid, {$this->_prefix}etchat_messages.etchat_text_css

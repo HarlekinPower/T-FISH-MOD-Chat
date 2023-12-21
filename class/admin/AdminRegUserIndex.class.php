@@ -68,8 +68,7 @@ class AdminRegUserIndex extends DbConectionMaker
 			$site=intval($_GET['site'])-1;
 			$von = $site*$pro_seite;
 		
-			if ($this->_usedDatabase == "mysql") $limit = "LIMIT $von, $pro_seite";
-			if ($this->_usedDatabase == "pgsql") $limit = "LIMIT $pro_seite OFFSET $von";
+			$limit = "LIMIT $von, $pro_seite";
 			
 			$feld=$this->dbObj->sqlGet("SELECT etchat_user_id, etchat_username, etchat_userpw, etchat_userprivilegien, etchat_reg_timestamp, etchat_reg_ip FROM {$this->_prefix}etchat_user WHERE etchat_userprivilegien='user' order by ".$_SESSION['etchat_'.$this->_prefix.'order_reg_user']." ".$limit );
 			$this->dbObj->close();
